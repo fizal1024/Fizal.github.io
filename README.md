@@ -1,1 +1,1 @@
-#fizal1024.github.io
+#fizal.github.io
